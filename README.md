@@ -1,5 +1,5 @@
 # worldtime
-This is aan app for checking the time in different parts of the world. 
+This is an app for checking the time in different parts of the world. 
 Currently has 7 or so countries.
 Build it and Have fun!
 
